@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<a class="jq_btn" href="#"><div></div></a>
+</body>
+</html>
+<script>
+
+    //鼠标移上去效果
+    $(".jq_btn").hover(function(){
+        $(this).find("div").stop().fadeIn();
+    },function(){
+        $(this).find("div").stop().fadeOut();
+    });
+</script>

@@ -1,0 +1,68 @@
+.listT1{
+    font-size: 20px;
+    margin-right: 150px;
+    float: left;
+}
+.tnavs{
+    float: left;
+}
+.tnavs a{
+    color: #9fa4a8;
+}
+.text{
+    width: 170px;
+    height: 140px;
+    overflow-y: scroll;
+    padding: 10px;
+    display: none;
+
+}
+.text p{
+    line-height: 30px;
+    font-size: 12px;
+}
+/* 设置滚动条的样式 */
+::-webkit-scrollbar {
+    width:12px;
+    background-color: #7f7f7f;
+}
+
+/* 滚动槽 */
+::-webkit-scrollbar-track {
+    border-radius:10px;
+}
+
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+    border-radius:10px;
+    background:black;
+}
+.shopingQuery{
+    width: 188px;
+    height: 37px;
+    line-height: 37px;
+    border: 1px solid #000000;
+    padding-left: 10px;
+    float: right;
+}
+.shopingQuery p{
+    font-size: 12px;
+}
+.shopingLin{
+    /*float: left;*/
+    margin-right: 20px;
+}
+.listTittle{
+    height: 107px;
+}
+.shoping{
+    float: right;
+    height: 40px;
+    line-height: 40px;
+}
+.shopingQuery .sqtext{
+    float: left;
+}
+.up{
+    float: right;
+}

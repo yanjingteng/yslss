@@ -1,0 +1,231 @@
+.tnavs{
+    height: 30px;
+    line-height: 30px;
+    color: #9fa4a8;
+    font-size: 12px;
+}
+.tnavs1{
+     font-size: 12px;
+     color: #9fa4a8;
+
+ }
+.tnavs1:hover{
+    text-decoration: underline;
+}
+/*主内容左边*/
+.incond{
+    width:36px;
+    height: 36px;
+    border: 1px solid #cccccc;
+    background-image: url("../img/jl/icon.png");
+    background-position: -101px -590px;
+}
+.iconfont{
+    font-size: 12px;
+}
+.listicon{
+    width: 40px;
+    text-align: center;
+    margin-right: 20px;
+}
+#signin_left{
+    width: 960px;
+    overflow: hidden;
+    float: left;
+}
+.sglt-ally{
+    height: 58px;
+}
+.sglt-ally li{
+    float: left;
+}
+.sglt-ally li:nth-child(1){
+    margin-right: 20px;
+}
+.sglt-ally li:nth-child(3) .incond{
+    background-position: -323px 5px;
+}
+.sglt-ally li:nth-child(4) .incond{
+    background-position: -437px -592px;
+}
+.sglt-ally li:nth-child(5) .incond{
+    background-position: -395px -979px
+}
+.lins .lin{
+    display: block;
+    width: 47%;
+    height: 1px;
+    border-top: 1px solid #cccccc;
+}
+.signin_left{
+    width: 966px;
+    overflow: hidden;
+    float: left;
+}
+.signin_left .sglt{
+    overflow: hidden;
+}
+.sgltH3{
+    width: 100%;
+    height: 28px;
+    font-size: 18px;
+    margin-bottom: 19px;
+}
+.sglt-a{
+    font-size: 18px;
+    font-weight: bold;
+}
+.sglt-a：hover{
+    text-decoration: underline;
+}
+.lins{
+    width: 100%;
+    height: 16px;
+    position: relative;
+    margin-top: 50px;
+}
+.singnin_right{
+    width: 300px;
+    height: 500px;
+    background-color: #09BB07;
+    float: right;
+}
+.linsfont{
+    position: absolute;
+    left: 471px;
+    top: -7px;
+    font-size: 12px;
+
+}
+.lins .ls{
+    float: right;
+}
+.sglbmust{
+    float: right;
+    color: red;
+}
+.sglbtittlr{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.sglbsame1{
+    margin-right: 40px;
+}
+.sglbdate{
+    width: 100%;
+    overflow: hidden;
+}
+.dateleft{
+    width: 45%;
+    margin-right: 5%;
+    overflow: hidden;
+    float: left;
+}
+.dateright{
+    width: 45%;
+    overflow: hidden;
+}
+.datered{color: red}
+.dateleft li{
+    height: 108px;
+    margin-bottom: 30px;
+
+}
+.sglbsame{
+    margin-bottom: 30px;
+}
+.date1{
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.dateleft li input{
+    width: 378px;
+    height: 38px;
+    padding: 5px 25px;
+    color: #cccccc;
+}
+.datespan{
+    margin-top: 8px;
+    font-size: 14px;
+}
+.dateleft li:nth-child(2){
+    height: 143px;
+}
+.datepassword{
+    width: 100%;
+    height: 25px;
+    overflow: hidden;
+    margin-top: 10px;
+    background-color: #f2f2f2;
+    font-size: 10px;
+    line-height: 25px;
+}
+.dateleft li .dateinput{
+    width: 150px;
+    margin-right:20px;
+}
+.daterandom{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right:30px;
+
+}
+.htz{
+    text-decoration: underline;
+}
+.datepost{
+    width: 200px;
+    height: 52px;
+    line-height: 50px;
+    border: 1px solid #000000;
+    text-align: center;
+    float: right;
+}
+.datepost:hover{
+    color: #FFFFFF;
+    background-color: black;
+    cursor: pointer;
+    transition: all 1.2s;
+    font-weight: bold;
+}
+.olicya{
+    text-decoration: underline;
+}
+.datepolicy{
+    height: 17px;
+    margin-bottom: 20px;
+
+}
+.policys{
+    float: left;
+    width: 13px;
+    height: 13px;
+    border: 1px solid #000000;
+    margin-right: 10px;
+    padding: 1px;
+}
+.posp{
+    font-size: 14px;
+}
+.dateconsent{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    border: 1px solid #000000;
+}
+.dateconsent:hover{
+    background-color: black;
+    color: #FFFFFF;
+    transition: all 1.2s;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.minbox{
+    overflow: hidden;
+    margin-bottom: 200px;
+}
+
+
+
